@@ -10,3 +10,4 @@
 
 ## Link for runanalysis.R
 
+https://github.com/RaheelRao/Getting-and-Cleaning-Data/blob/master/run_analysis.R
